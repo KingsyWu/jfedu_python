@@ -3,6 +3,7 @@
 # 密码验证程序 retry 3次: 验证一个文本里面的密码，如果正确返回，不正确重试3次
 # 20170903 by zhu
 
+
 # 验证密码
 def verify_passwd(passwd, num):
     if num == 0:
