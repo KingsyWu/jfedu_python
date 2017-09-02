@@ -4,6 +4,8 @@
     <list default="true" id="dcb2d6a7-b768-405b-b0e0-05245bc4ddce" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jfeduHW03.py" afterPath="$PROJECT_DIR$/jfeduHW03.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/passwd.txt" afterPath="$PROJECT_DIR$/passwd.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test1" afterPath="$PROJECT_DIR$/test1" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,7 +23,7 @@
         <entry file="file://$PROJECT_DIR$/test1">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+              <caret line="0" column="16" lean-forward="true" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -30,8 +32,8 @@
       <file leaf-file-name="passwd.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/passwd.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+            <state relative-caret-position="57">
+              <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -40,8 +42,8 @@
       <file leaf-file-name="jfeduHW03.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jfeduHW03.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+            <state relative-caret-position="76">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -80,8 +82,8 @@
         <option value="$PROJECT_DIR$/passwd" />
         <option value="$PROJECT_DIR$/吴金柱第3次作业2.py" />
         <option value="$PROJECT_DIR$/吴金柱第3次作业3.py" />
-        <option value="$PROJECT_DIR$/test1" />
         <option value="$PROJECT_DIR$/passwd.txt" />
+        <option value="$PROJECT_DIR$/test1" />
         <option value="$PROJECT_DIR$/jfeduHW03.py" />
       </list>
     </option>
@@ -396,7 +398,14 @@
       <option name="project" value="LOCAL" />
       <updated>1504375880549</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="hw03">
+      <created>1504376265306</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1504376265306</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView">
@@ -524,26 +533,26 @@
     <entry file="file://$PROJECT_DIR$/吴金柱第3次作业.py" />
     <entry file="file://$PROJECT_DIR$/吴金柱第3次作业2.py" />
     <entry file="file://$PROJECT_DIR$/吴金柱第3次作业3.py" />
-    <entry file="file://$PROJECT_DIR$/test1">
+    <entry file="file://$PROJECT_DIR$/passwd.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+        <state relative-caret-position="57">
+          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/passwd.txt">
+    <entry file="file://$PROJECT_DIR$/test1">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <caret line="0" column="16" lean-forward="true" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jfeduHW03.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        <state relative-caret-position="76">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
