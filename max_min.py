@@ -1,0 +1,1 @@
+num = [1,3,2,6];print(max(num),min(num))
